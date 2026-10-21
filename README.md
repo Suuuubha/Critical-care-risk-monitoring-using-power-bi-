@@ -19,8 +19,5 @@ Critical care teams must track many patients at once. This dashboard highlights 
 - [e.g., Risk score distribution]
 - [e.g., ICU stay duration]
 
-## Files
-- `[file name].pbix`: Power BI file
-
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
